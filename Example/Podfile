@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunkyFMHomeRecommend_Example' do
+  pod 'FunkyFMHomeRecommend', :path => '../'
+
+  target 'FunkyFMHomeRecommend_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
