@@ -1,0 +1,6 @@
+framework module Pods_FunkyFMHomeRecommend_Tests {
+  umbrella header "Pods-FunkyFMHomeRecommend_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

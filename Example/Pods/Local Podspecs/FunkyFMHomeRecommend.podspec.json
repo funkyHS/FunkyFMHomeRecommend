@@ -1,0 +1,39 @@
+{
+  "name": "FunkyFMHomeRecommend",
+  "version": "0.1.0",
+  "summary": "FunkyFMHomeRecommend",
+  "description": "TODO: FunkyFMHomeRecommend 是FunkyFM的业务组件，属于首页模块中的‘推荐’模块",
+  "homepage": "https://github.com/funkyHS/FunkyFMHomeRecommend",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "funkyHS": "hs1024942667@163.com"
+  },
+  "source": {
+    "git": "https://github.com/funkyHS/FunkyFMHomeRecommend.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FunkyFMHomeRecommend/Classes/**/*",
+  "dependencies": {
+    "FunkyFMBase/Network": [
+
+    ],
+    "FunkyFMBase/Base": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "FunkyScrollPicView": [
+
+    ],
+    "FunkyMenueView": [
+
+    ]
+  }
+}
